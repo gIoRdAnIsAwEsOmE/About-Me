@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>About Me Page</title>
+	</head>
+	<body>
+	<h1 style="color:red;"> About Me </h1>
+	<br>
+	<br>
+		<img src="Giordan.jpg" style="width:200px; height:200px;"/>
+	<br>
+	<br>
+	<br>
+	<p>Name: <em>Giordan Escalona</em></p>
+	<br>
+	<p>Age: <em>13</em> </p>
+	<br>
+	<p>Favorite App / Website</p>
+		<ul>
+
+			<li>google.com</li>
+			<li>Twitter</li>
+			<li>Instagram</li>
+		</ul>
+			<p> Lucas's favorites </p>
+
+	</body>
+
+
+</html>
